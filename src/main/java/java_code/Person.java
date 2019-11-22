@@ -5,5 +5,6 @@ public class Person {
     private String firstName;
 
     private int SSN;
+   private String Address;
 
 }
