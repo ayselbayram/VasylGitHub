@@ -8,3 +8,5 @@ navy blue
 pink
 white
 Fushia
+Azure
+Flame
